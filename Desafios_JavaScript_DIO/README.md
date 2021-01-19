@@ -1,12 +1,12 @@
-# Introdução a Programação
+# Introdução a Programação :computer:
 
 
 
-#### 1/3 - Dividindo X por Y
+#### 1/3 - Dividindo X por Y :
 
 **JavaScript**
 
-Em JavaScript as funções de STDIN e STDOUT respectivamente são**gets** e **console.log**, a função gets é implementada internamente para auxiliar a entrada dos dados.
+Em JavaScript as funções de STDIN e STDOUT respectivamente são **gets** e **console.log**, a função gets é implementada internamente para auxiliar a entrada dos dados.
 
 **Exemplo:**
 
@@ -100,7 +100,7 @@ Marlene por sua vez sempre come 225 gramas de mandioca. Cansada de todo ano ter 
 |                                  |      |
 
 ------------
-# Fundamentos Aritméticos
+# Fundamentos Aritméticos :computer:
 
 #### 1/5 - Quantidade de Números Positivos
 
@@ -162,7 +162,7 @@ Marlene por sua vez sempre come 225 gramas de mandioca. Cansada de todo ano ter 
 - Exiba o valor que representa o consumo médio do automóvel (3 casas após a vírgula), incluindo no final a mensagem "km/l".
 
 ------------
-# Problemas Aritméticos
+# Problemas Aritméticos :computer:
 
 #### 1/5 - Soma Simples
 
@@ -304,3 +304,8 @@ Caso você não saiba, o teorema que garante a existência e a unicidade dos int
 | ----- | ---- |
 |       |      |
 
+
+
+
+
+#Rafael Holanda
